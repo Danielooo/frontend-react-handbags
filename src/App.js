@@ -73,7 +73,6 @@ function App() {
               <p>'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias consectetur exercitationem hic iure maiores nam placeat quo unde ut veniam.'</p>
           </Tile>
         </span>
-
       </footer>
 
     </>
